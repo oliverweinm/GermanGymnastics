@@ -2,6 +2,10 @@ body {
   background-image: url("pics/649129.jpg");
 }
 
+h2 {
+  font-style: oblique;
+}
+
 h3 {
   font-family:cursive;
 }
